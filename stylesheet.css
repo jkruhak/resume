@@ -1,0 +1,45 @@
+body {
+	font-family: "Times New Roman", Verdi, sans-serif;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+.job-description {
+	font-style: italic;
+}
+
+#company {
+	text-align: left;
+}
+
+#title {
+	position: relative;
+	text-align: center;	
+}
+
+#education {
+	height: auto;
+	width: auto;
+	position: relative;
+	border: 1px solid #C2CFCF;	
+}
+
+#professional {
+	height: auto;
+	width: auto;
+	position: relative;
+	border: 1px solid #C2CFCF;
+}
+
+#interests {
+	height: auto;
+	width: auto;
+	position: relative;
+	border: 1px solid #C2CFCF;
+}
